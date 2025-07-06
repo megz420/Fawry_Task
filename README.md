@@ -32,7 +32,6 @@ It implements an object-oriented design for a simplified e-commerce system with 
 ## 🧱 Project Structure
 
 ├── Program.java                       # Main testing and demo runner
-
 ├── Product.java                       # Base class for all products
 ├── IExpirable.java                    # Interface for products with expiration
 ├── IShippable.java                    # Interface for products requiring shipping
