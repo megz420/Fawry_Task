@@ -29,7 +29,7 @@ It implements an object-oriented design for a simplified e-commerce system with 
 
 ---
 
-## 🧱 Project Structure
+##  Project Structure
 
 ├── Program.java                       # Main testing and demo runner
 
